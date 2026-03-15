@@ -1,0 +1,1796 @@
+AD	AND	20	Andorra	Andorra la Vella	468	77006
+Language:	1	Catalan
+Neighbor:	Spain
+Neighbor:	France
+
+AE	ARE	784	United Arab Emirates	Abu Dhabi	82880	9630959
+Language:	3	English
+Language:	1	Arabic
+Language:	4	Hindi
+Language:	2	Persian
+Language:	5	Urdu
+Neighbor:	Oman
+Neighbor:	Saudi Arabia
+
+AF	AFG	4	Afghanistan	Kabul	647500	37172386
+Language:	4	Turkmen
+Language:	3	Uzbek
+Language:	1	Persian
+Language:	2	Pushto
+Neighbor:	China
+Neighbor:	Iran
+Neighbor:	Pakistan
+Neighbor:	Tajikistan
+Neighbor:	Turkmenistan
+Neighbor:	Uzbekistan
+
+AG	ATG	28	Antigua and Barbuda	Saint John's	443	96286
+Language:	1	English
+
+AI	AIA	660	Anguilla	The Valley	102	13254
+Language:	1	English
+
+AL	ALB	8	Albania	Tirana	28748	2866376
+Language:	1	Albanian
+Language:	2	Modern Greek (1453-)
+Neighbor:	Greece
+Neighbor:	Kosovo
+Neighbor:	Montenegro
+Neighbor:	North Macedonia
+Neighbor:	Serbia
+
+AM	ARM	51	Armenia	Yerevan	29800	2951776
+Language:	1	Armenian
+Neighbor:	Azerbaijan
+Neighbor:	Georgia
+Neighbor:	Iran
+Neighbor:	Turkey
+
+AO	AGO	24	Angola	Luanda	1.2467e+006	30809762
+Language:	1	Portuguese
+Neighbor:	Democratic Republic of the Congo
+Neighbor:	Republic of the Congo
+Neighbor:	Namibia
+Neighbor:	Zambia
+
+AR	ARG	32	Argentina	Buenos Aires	2.76689e+006	44494502
+Language:	1	Spanish
+Language:	6	Guarani
+Language:	3	Italian
+Language:	2	English
+Language:	5	French
+Language:	4	German
+Neighbor:	Bolivia
+Neighbor:	Brazil
+Neighbor:	Chile
+Neighbor:	Paraguay
+Neighbor:	Uruguay
+
+AS	ASM	16	American Samoa	Pago Pago	199	55465
+Language:	1	English
+Language:	2	Samoan
+Language:	3	Tonga (Tonga Islands)
+
+AT	AUT	40	Austria	Vienna	83858	8847037
+Language:	4	Slovenian
+Language:	3	Hungarian
+Language:	2	Croatian
+Language:	1	German
+Neighbor:	Switzerland
+Neighbor:	Czechia
+Neighbor:	Germany
+Neighbor:	Hungary
+Neighbor:	Italy
+Neighbor:	Liechtenstein
+Neighbor:	Slovenia
+Neighbor:	Slovakia
+
+AU	AUS	36	Australia	Canberra	7.68685e+006	24992369
+Language:	1	English
+
+AW	ABW	533	Aruba	Oranjestad	193	105845
+Language:	1	Dutch
+Language:	4	English
+Language:	3	Spanish
+Language:	2	Papiamento
+
+AX	ALA	248	Aland Islands	Mariehamn	1580	26711
+Language:	1	Swedish
+
+AZ	AZE	31	Azerbaijan	Baku	86600	9942334
+Language:	2	Russian
+Language:	3	Armenian
+Language:	1	Azerbaijani
+Neighbor:	Armenia
+Neighbor:	Georgia
+Neighbor:	Iran
+Neighbor:	Russia
+Neighbor:	Turkey
+
+BA	BIH	70	Bosnia and Herzegovina	Sarajevo	51129	3323929
+Language:	1	Bosnian
+Language:	2	Croatian
+Language:	3	Serbian
+Neighbor:	Croatia
+Neighbor:	Montenegro
+Neighbor:	Serbia
+
+BB	BRB	52	Barbados	Bridgetown	431	286641
+Language:	1	English
+
+BD	BGD	50	Bangladesh	Dhaka	144000	161356039
+Language:	2	English
+Language:	1	Bengali
+Neighbor:	India
+Neighbor:	Myanmar
+
+BE	BEL	56	Belgium	Brussels	30510	11422068
+Language:	1	Dutch
+Language:	3	German
+Language:	2	French
+Neighbor:	Germany
+Neighbor:	France
+Neighbor:	Luxembourg
+Neighbor:	The Netherlands
+
+BF	BFA	854	Burkina Faso	Ouagadougou	274200	19751535
+Language:	1	French
+Language:	2	Mossi
+Neighbor:	Benin
+Neighbor:	Ivory Coast
+Neighbor:	Ghana
+Neighbor:	Mali
+Neighbor:	Niger
+Neighbor:	Togo
+
+BG	BGR	100	Bulgaria	Sofia	110910	7000039
+Language:	3	Romany
+Language:	1	Bulgarian
+Language:	2	Turkish
+Neighbor:	Greece
+Neighbor:	North Macedonia
+Neighbor:	Romania
+Neighbor:	Serbia
+Neighbor:	Turkey
+
+BH	BHR	48	Bahrain	Manama	665	1569439
+Language:	4	Urdu
+Language:	1	Arabic
+Language:	2	English
+Language:	3	Persian
+
+BI	BDI	108	Burundi	Gitega	27830	11175378
+Language:	2	Rundi
+Language:	1	French
+Neighbor:	Democratic Republic of the Congo
+Neighbor:	Rwanda
+Neighbor:	Tanzania
+
+BJ	BEN	204	Benin	Porto-Novo	112620	11485048
+Language:	1	French
+Neighbor:	Burkina Faso
+Neighbor:	Niger
+Neighbor:	Nigeria
+Neighbor:	Togo
+
+BL	BLM	652	Saint Barthelemy	Gustavia	21	8450
+Language:	1	French
+
+BM	BMU	60	Bermuda	Hamilton	53	63968
+Language:	1	English
+Language:	2	Portuguese
+
+BN	BRN	96	Brunei	Bandar Seri Begawan	5770	428962
+Language:	1	Malay (macrolanguage)
+Language:	2	English
+Neighbor:	Malaysia
+
+BO	BOL	68	Bolivia	Sucre	1.09858e+006	11353142
+Language:	3	Aymara
+Language:	2	Quechua
+Language:	1	Spanish
+Neighbor:	Argentina
+Neighbor:	Brazil
+Neighbor:	Chile
+Neighbor:	Peru
+Neighbor:	Paraguay
+
+BQ	BES	535	Bonaire, Saint Eustatius and Saba 	328	18012
+Language:	2	Papiamento
+Language:	1	Dutch
+Language:	3	English
+
+BR	BRA	76	Brazil	Brasilia	8.51197e+006	209469333
+Language:	3	English
+Language:	4	French
+Language:	1	Portuguese
+Language:	2	Spanish
+Neighbor:	Argentina
+Neighbor:	Bolivia
+Neighbor:	Colombia
+Neighbor:	French Guiana
+Neighbor:	Guyana
+Neighbor:	Peru
+Neighbor:	Paraguay
+Neighbor:	Suriname
+Neighbor:	Uruguay
+Neighbor:	Venezuela
+
+BS	BHS	44	Bahamas	Nassau	13940	385640
+Language:	1	English
+
+BT	BTN	64	Bhutan	Thimphu	47000	754394
+Language:	1	Dzongkha
+Neighbor:	China
+Neighbor:	India
+
+BW	BWA	72	Botswana	Gaborone	600370	2254126
+Language:	1	English
+Language:	2	Tswana
+Neighbor:	Namibia
+Neighbor:	South Africa
+Neighbor:	Zimbabwe
+
+BY	BLR	112	Belarus	Minsk	207600	9485386
+Language:	1	Belarusian
+Language:	2	Russian
+Neighbor:	Lithuania
+Neighbor:	Latvia
+Neighbor:	Poland
+Neighbor:	Russia
+Neighbor:	Ukraine
+
+BZ	BLZ	84	Belize	Belmopan	22966	383071
+Language:	2	Spanish
+Language:	1	English
+Neighbor:	Guatemala
+Neighbor:	Mexico
+
+CA	CAN	124	Canada	Ottawa	9.98467e+006	37058856
+Language:	1	English
+Language:	2	French
+Language:	3	Inuktitut
+Neighbor:	United States
+
+CC	CCK	166	Cocos Islands	West Island	14	628
+Language:	1	Malay (macrolanguage)
+Language:	2	English
+
+CD	COD	180	Democratic Republic of the Congo	Kinshasa	2.34541e+006	84068091
+Language:	1	French
+Language:	3	Kituba (Democratic Republic of Congo)
+Language:	4	Kongo
+Language:	2	Lingala
+Language:	6	Luba-Lulua
+Language:	5	Swahili (macrolanguage)
+Neighbor:	Angola
+Neighbor:	Burundi
+Neighbor:	Central African Republic
+Neighbor:	Republic of the Congo
+Neighbor:	Rwanda
+Neighbor:	South Sudan
+Neighbor:	Tanzania
+Neighbor:	Uganda
+Neighbor:	Zambia
+
+CF	CAF	140	Central African Republic	Bangui	622984	4666377
+Language:	2	Sango
+Language:	3	Lingala
+Language:	4	Kongo
+Language:	1	French
+Neighbor:	Democratic Republic of the Congo
+Neighbor:	Republic of the Congo
+Neighbor:	Cameroon
+Neighbor:	Sudan
+Neighbor:	South Sudan
+Neighbor:	Chad
+
+CG	COG	178	Republic of the Congo	Brazzaville	342000	5244363
+Language:	1	French
+Language:	2	Kongo
+Language:	3	Lingala
+Neighbor:	Angola
+Neighbor:	Democratic Republic of the Congo
+Neighbor:	Central African Republic
+Neighbor:	Cameroon
+Neighbor:	Gabon
+
+CH	CHE	756	Switzerland	Bern	41290	8516543
+Language:	3	Italian
+Language:	4	Romansh
+Language:	2	French
+Language:	1	German
+Neighbor:	Austria
+Neighbor:	Germany
+Neighbor:	France
+Neighbor:	Italy
+Neighbor:	Liechtenstein
+
+CI	CIV	384	Ivory Coast	Yamoussoukro	322460	25069229
+Language:	1	French
+Neighbor:	Burkina Faso
+Neighbor:	Ghana
+Neighbor:	Guinea
+Neighbor:	Liberia
+Neighbor:	Mali
+
+CK	COK	184	Cook Islands	Avarua	240	21388
+Language:	1	English
+Language:	2	Maori
+
+CL	CHL	152	Chile	Santiago	756950	18729160
+Language:	1	Spanish
+Neighbor:	Argentina
+Neighbor:	Bolivia
+Neighbor:	Peru
+
+CM	CMR	120	Cameroon	Yaounde	475440	25216237
+Language:	1	English
+Language:	2	French
+Neighbor:	Central African Republic
+Neighbor:	Republic of the Congo
+Neighbor:	Gabon
+Neighbor:	Equatorial Guinea
+Neighbor:	Nigeria
+Neighbor:	Chad
+
+CN	CHN	156	China	Beijing	9.59696e+006	1411778724
+Language:	4	Daur
+Language:	1	Chinese
+Language:	5	Uighur
+Language:	3	Wu Chinese
+Language:	2	Yue Chinese
+Language:	6	Zhuang
+Neighbor:	Afghanistan
+Neighbor:	Bhutan
+Neighbor:	India
+Neighbor:	Kyrgyzstan
+Neighbor:	North Korea
+Neighbor:	Kazakhstan
+Neighbor:	Laos
+Neighbor:	Myanmar
+Neighbor:	Mongolia
+Neighbor:	Nepal
+Neighbor:	Pakistan
+Neighbor:	Russia
+Neighbor:	Tajikistan
+Neighbor:	Vietnam
+
+CO	COL	170	Colombia	Bogota	1.13891e+006	49648685
+Language:	1	Spanish
+Neighbor:	Brazil
+Neighbor:	Ecuador
+Neighbor:	Panama
+Neighbor:	Peru
+Neighbor:	Venezuela
+
+CR	CRI	188	Costa Rica	San Jose	51100	4999441
+Language:	1	Spanish
+Language:	2	English
+Neighbor:	Nicaragua
+Neighbor:	Panama
+
+CU	CUB	192	Cuba	Havana	110860	11338138
+Language:	1	Spanish
+Language:	2	Papiamento
+Neighbor:	United States
+
+CV	CPV	132	Cabo Verde	Praia	4033	543767
+Language:	1	Portuguese
+
+CW	CUW	531	Curacao	Willemstad	444	159849
+Language:	2	Papiamento
+Language:	1	Dutch
+
+CX	CXR	162	Christmas Island	Flying Fish Cove	135	1500
+Language:	2	Chinese
+Language:	1	English
+Language:	3	Malay (macrolanguage)
+
+CY	CYP	196	Cyprus	Nicosia	9250	1189265
+Language:	1	Modern Greek (1453-)
+Language:	3	English
+Language:	2	Turkish
+
+CZ	CZE	203	Czechia	Prague	78866	10625695
+Language:	1	Czech
+Language:	2	Slovak
+Neighbor:	Austria
+Neighbor:	Germany
+Neighbor:	Poland
+Neighbor:	Slovakia
+
+DE	DEU	276	Germany	Berlin	357021	82927922
+Language:	1	German
+Neighbor:	Austria
+Neighbor:	Belgium
+Neighbor:	Switzerland
+Neighbor:	Czechia
+Neighbor:	Denmark
+Neighbor:	France
+Neighbor:	Luxembourg
+Neighbor:	The Netherlands
+Neighbor:	Poland
+
+DJ	DJI	262	Djibouti	Djibouti	23000	958920
+Language:	1	French
+Language:	2	Arabic
+Language:	4	Afar
+Language:	3	Somali
+Neighbor:	Eritrea
+Neighbor:	Ethiopia
+Neighbor:	Somalia
+
+DK	DNK	208	Denmark	Copenhagen	43094	5797446
+Language:	1	Danish
+Language:	4	German
+Language:	3	Faroese
+Language:	2	English
+Neighbor:	Germany
+
+DM	DMA	212	Dominica	Roseau	754	71625
+Language:	1	English
+
+DO	DOM	214	Dominican Republic	Santo Domingo	48730	10627165
+Language:	1	Spanish
+Neighbor:	Haiti
+
+DZ	DZA	12	Algeria	Algiers	2.38174e+006	42228429
+Language:	1	Arabic
+Neighbor:	Western Sahara
+Neighbor:	Libya
+Neighbor:	Morocco
+Neighbor:	Mali
+Neighbor:	Mauritania
+Neighbor:	Niger
+Neighbor:	Tunisia
+
+EC	ECU	218	Ecuador	Quito	283560	17084357
+Language:	1	Spanish
+Neighbor:	Colombia
+Neighbor:	Peru
+
+EE	EST	233	Estonia	Tallinn	45226	1320884
+Language:	2	Russian
+Language:	1	Estonian
+Neighbor:	Latvia
+Neighbor:	Russia
+
+EG	EGY	818	Egypt	Cairo	1.00145e+006	98423595
+Language:	3	French
+Language:	2	English
+Language:	1	Arabic
+Neighbor:	Israel
+Neighbor:	Libya
+Neighbor:	Palestinian Territory
+Neighbor:	Sudan
+
+EH	ESH	732	Western Sahara	266000	273008
+Language:	1	Arabic
+Language:	2	Hassaniyya
+Neighbor:	Algeria
+Neighbor:	Morocco
+Neighbor:	Mauritania
+
+ER	ERI	232	Eritrea	Asmara	121320	6209262
+Language:	4	Kunama
+Language:	2	Arabic
+Language:	1	Afar
+Language:	3	Tigre
+Language:	5	Tigrinya
+Neighbor:	Djibouti
+Neighbor:	Ethiopia
+Neighbor:	Sudan
+
+ES	ESP	724	Spain	Madrid	504782	46723749
+Language:	4	Basque
+Language:	2	Catalan
+Language:	3	Galician
+Language:	5	Occitan (post 1500)
+Language:	1	Spanish
+Neighbor:	Andorra
+Neighbor:	France
+Neighbor:	Gibraltar
+Neighbor:	Morocco
+Neighbor:	Portugal
+
+ET	ETH	231	Ethiopia	Addis Ababa	1.12713e+006	109224559
+Language:	5	Somali
+Language:	6	Sidamo
+Language:	3	Oromo
+Language:	1	Amharic
+Language:	2	English
+Language:	4	Tigrinya
+Neighbor:	Djibouti
+Neighbor:	Eritrea
+Neighbor:	Kenya
+Neighbor:	Sudan
+Neighbor:	South Sudan
+Neighbor:	Somalia
+
+FI	FIN	246	Finland	Helsinki	337030	5518050
+Language:	2	Swedish
+Language:	1	Finnish
+Language:	3	Inari Sami
+Neighbor:	Norway
+Neighbor:	Russia
+Neighbor:	Sweden
+
+FJ	FJI	242	Fiji	Suva	18270	883483
+Language:	2	Fijian
+Language:	1	English
+
+FK	FLK	238	Falkland Islands	Stanley	12173	2638
+Language:	1	English
+
+FM	FSM	583	Micronesia	Palikir - National Government Center	702	112640
+Language:	1	English
+Language:	2	Chuukese
+Language:	9	Kapingamarangi
+Language:	5	Kosraean
+Language:	8	Nukuoro
+Language:	3	Pohnpeian
+Language:	6	Ulithian
+Language:	7	Woleaian
+Language:	4	Yapese
+
+FO	FRO	234	Faroe Islands	Torshavn	1399	48497
+Language:	2	Danish
+Language:	1	Faroese
+
+FR	FRA	250	France	Paris	547030	66987244
+Language:	1	French
+Language:	4	Corsican
+Language:	5	Catalan
+Language:	2	Arpitan
+Language:	6	Basque
+Language:	3	Breton
+Language:	7	Occitan (post 1500)
+Neighbor:	Andorra
+Neighbor:	Belgium
+Neighbor:	Switzerland
+Neighbor:	Germany
+Neighbor:	Spain
+Neighbor:	Italy
+Neighbor:	Luxembourg
+Neighbor:	Monaco
+
+GA	GAB	266	Gabon	Libreville	267667	2119275
+Language:	1	French
+Neighbor:	Republic of the Congo
+Neighbor:	Cameroon
+Neighbor:	Equatorial Guinea
+
+GB	GBR	826	United Kingdom	London	244820	66488991
+Language:	1	English
+Language:	3	Scottish Gaelic
+Language:	2	Welsh
+Neighbor:	Ireland
+
+GD	GRD	308	Grenada	Saint George's	344	111454
+Language:	1	English
+
+GE	GEO	268	Georgia	Tbilisi	69700	3731000
+Language:	3	Armenian
+Language:	4	Azerbaijani
+Language:	2	Russian
+Language:	1	Georgian
+Neighbor:	Armenia
+Neighbor:	Azerbaijan
+Neighbor:	Russia
+Neighbor:	Turkey
+
+GF	GUF	254	French Guiana	Cayenne	91000	195506
+Language:	1	French
+Neighbor:	Brazil
+Neighbor:	Suriname
+
+GG	GGY	831	Guernsey	Saint Peter Port	78	65228
+Language:	1	English
+Language:	2	J├¿rriais
+
+GH	GHA	288	Ghana	Accra	239460	29767108
+Language:	1	English
+Language:	3	Ewe
+Language:	2	Akan
+Language:	4	Twi
+Neighbor:	Burkina Faso
+Neighbor:	Ivory Coast
+Neighbor:	Togo
+
+GI	GIB	292	Gibraltar	Gibraltar	6.5	33718
+Language:	1	English
+Language:	3	Italian
+Language:	4	Portuguese
+Language:	2	Spanish
+Neighbor:	Spain
+
+GL	GRL	304	Greenland	Nuuk	2.16609e+006	56025
+Language:	1	Kalaallisut
+Language:	3	English
+Language:	2	Danish
+
+GM	GMB	270	Gambia	Banjul	11300	2280102
+Language:	1	English
+Language:	5	Fulah
+Language:	3	Gambian Wolof
+Language:	2	Mandinka
+Language:	4	Wolof
+Neighbor:	Senegal
+
+GN	GIN	324	Guinea	Conakry	245857	12414318
+Language:	1	French
+Neighbor:	Ivory Coast
+Neighbor:	Guinea-Bissau
+Neighbor:	Liberia
+Neighbor:	Mali
+Neighbor:	Sierra Leone
+Neighbor:	Senegal
+
+GP	GLP	312	Guadeloupe	Basse-Terre	1780	443000
+Language:	1	French
+
+GQ	GNQ	226	Equatorial Guinea	Malabo	28051	1308974
+Language:	2	French
+Language:	1	Spanish
+Language:	3	Portuguese
+Neighbor:	Cameroon
+Neighbor:	Gabon
+
+GR	GRC	300	Greece	Athens	131940	10727668
+Language:	1	Modern Greek (1453-)
+Language:	3	French
+Language:	2	English
+Neighbor:	Albania
+Neighbor:	Bulgaria
+Neighbor:	North Macedonia
+Neighbor:	Turkey
+
+GS	SGS	239	South Georgia and the South Sandwich Islands	Grytviken	3903	30
+Language:	1	English
+
+GT	GTM	320	Guatemala	Guatemala City	108890	17247807
+Language:	1	Spanish
+Neighbor:	Belize
+Neighbor:	Honduras
+Neighbor:	Mexico
+Neighbor:	El Salvador
+
+GU	GUM	316	Guam	Hagatna	549	165768
+Language:	1	English
+Language:	2	Chamorro
+
+GW	GNB	624	Guinea-Bissau	Bissau	36120	1874309
+Language:	1	Portuguese
+Language:	2	Upper Guinea Crioulo
+Neighbor:	Guinea
+Neighbor:	Senegal
+
+GY	GUY	328	Guyana	Georgetown	214970	779004
+Language:	1	English
+Neighbor:	Brazil
+Neighbor:	Suriname
+Neighbor:	Venezuela
+
+HK	HKG	344	Hong Kong	Hong Kong	1092	7491609
+Language:	3	English
+Language:	1	Chinese
+Language:	2	Yue Chinese
+
+HN	HND	340	Honduras	Tegucigalpa	112090	9587522
+Language:	1	Spanish
+Language:	3	M├¡skito
+Language:	2	Garifuna
+Neighbor:	Guatemala
+Neighbor:	Nicaragua
+Neighbor:	El Salvador
+
+HR	HRV	191	Croatia	Zagreb	56542	3871833
+Language:	2	Serbian
+Language:	1	Croatian
+Neighbor:	Bosnia and Herzegovina
+Neighbor:	Hungary
+Neighbor:	Montenegro
+Neighbor:	Serbia
+Neighbor:	Slovenia
+
+HT	HTI	332	Haiti	Port-au-Prince	27750	11123176
+Language:	2	French
+Language:	1	Haitian
+Neighbor:	Dominican Republic
+
+HU	HUN	348	Hungary	Budapest	93030	9768785
+Language:	1	Hungarian
+Neighbor:	Austria
+Neighbor:	Croatia
+Neighbor:	Romania
+Neighbor:	Serbia
+Neighbor:	Slovenia
+Neighbor:	Slovakia
+Neighbor:	Ukraine
+
+ID	IDN	360	Indonesia	Jakarta	1.91944e+006	267663435
+Language:	4	Javanese
+Language:	1	Indonesian
+Language:	2	English
+Language:	3	Dutch
+Neighbor:	Malaysia
+Neighbor:	Papua New Guinea
+Neighbor:	Timor Leste
+
+IE	IRL	372	Ireland	Dublin	70280	4853506
+Language:	1	English
+Language:	2	Irish
+Neighbor:	United Kingdom
+
+IL	ISR	376	Israel	Jerusalem	20770	8883800
+Language:	1	Hebrew
+Language:	3	English
+Language:	2	Arabic
+Neighbor:	Egypt
+Neighbor:	Jordan
+Neighbor:	Lebanon
+Neighbor:	Palestinian Territory
+Neighbor:	Syria
+
+IM	IMN	833	Isle of Man	Douglas	572	84077
+Language:	1	English
+Language:	2	Manx
+
+IN	IND	356	India	New Delhi	3.28759e+006	1352617328
+Language:	5	Marathi
+Language:	21	Manipuri
+Language:	10	Malayalam
+Language:	25	Lushai
+Language:	19	Konkani (macrolanguage)
+Language:	2	Hindi
+Language:	20	Dogri (macrolanguage)
+Language:	26	Indic languages
+Language:	8	Gujarati
+Language:	9	Kannada
+Language:	16	Kashmiri
+Language:	23	Sanskrit
+Language:	15	Santali
+Language:	18	Sindhi
+Language:	22	Sino-Tibetan languages
+Language:	17	Nepali (macrolanguage)
+Language:	11	Oriya (macrolanguage)
+Language:	12	Panjabi
+Language:	1	English
+Language:	24	French
+Language:	13	Assamese
+Language:	14	Bihari languages
+Language:	3	Bengali
+Language:	7	Urdu
+Language:	6	Tamil
+Language:	4	Telugu
+Neighbor:	Bangladesh
+Neighbor:	Bhutan
+Neighbor:	China
+Neighbor:	Myanmar
+Neighbor:	Nepal
+Neighbor:	Pakistan
+
+IO	IOT	86	British Indian Ocean Territory	60	4000
+Language:	1	English
+
+IQ	IRQ	368	Iraq	Baghdad	437072	38433600
+Language:	3	Armenian
+Language:	1	Arabic
+Language:	2	Kurdish
+Neighbor:	Iran
+Neighbor:	Jordan
+Neighbor:	Kuwait
+Neighbor:	Saudi Arabia
+Neighbor:	Syria
+Neighbor:	Turkey
+
+IR	IRN	364	Iran	Tehran	1.648e+006	81800269
+Language:	2	Kurdish
+Language:	1	Persian
+Neighbor:	Afghanistan
+Neighbor:	Armenia
+Neighbor:	Azerbaijan
+Neighbor:	Iraq
+Neighbor:	Pakistan
+Neighbor:	Turkmenistan
+Neighbor:	Turkey
+
+IS	ISL	352	Iceland	Reykjavik	103000	353574
+Language:	6	Norwegian
+Language:	1	Icelandic
+Language:	4	Danish
+Language:	2	English
+Language:	3	German
+Language:	5	Swedish
+
+IT	ITA	380	Italy	Rome	301230	60431283
+Language:	2	German
+Language:	3	French
+Language:	6	Corsican
+Language:	5	Catalan
+Language:	1	Italian
+Language:	4	Sardinian
+Language:	7	Slovenian
+Neighbor:	Austria
+Neighbor:	Switzerland
+Neighbor:	France
+Neighbor:	Slovenia
+Neighbor:	San Marino
+Neighbor:	Vatican
+
+JE	JEY	832	Jersey	Saint Helier	116	90812
+Language:	3	J├¿rriais
+Language:	2	French
+Language:	1	English
+
+JM	JAM	388	Jamaica	Kingston	10991	2934855
+Language:	1	English
+
+JO	JOR	400	Jordan	Amman	92300	9956011
+Language:	2	English
+Language:	1	Arabic
+Neighbor:	Israel
+Neighbor:	Iraq
+Neighbor:	Palestinian Territory
+Neighbor:	Saudi Arabia
+Neighbor:	Syria
+
+JP	JPN	392	Japan	Tokyo	377835	126529100
+Language:	1	Japanese
+
+KE	KEN	404	Kenya	Nairobi	582650	51393010
+Language:	2	Swahili (macrolanguage)
+Language:	1	English
+Neighbor:	Ethiopia
+Neighbor:	South Sudan
+Neighbor:	Somalia
+Neighbor:	Tanzania
+Neighbor:	Uganda
+
+KG	KGZ	417	Kyrgyzstan	Bishkek	198500	6315800
+Language:	3	Russian
+Language:	1	Kirghiz
+Language:	2	Uzbek
+Neighbor:	China
+Neighbor:	Kazakhstan
+Neighbor:	Tajikistan
+Neighbor:	Uzbekistan
+
+KH	KHM	116	Cambodia	Phnom Penh	181040	16249798
+Language:	1	Khmer
+Language:	3	English
+Language:	2	French
+Neighbor:	Laos
+Neighbor:	Thailand
+Neighbor:	Vietnam
+
+KI	KIR	296	Kiribati	Tarawa	811	115847
+Language:	1	English
+Language:	2	Gilbertese
+
+KM	COM	174	Comoros	Moroni	2170	832322
+Language:	2	French
+Language:	1	Arabic
+
+KN	KNA	659	Saint Kitts and Nevis	Basseterre	261	52441
+Language:	1	English
+
+KP	PRK	408	North Korea	Pyongyang	120540	25549819
+Language:	1	Korean
+Neighbor:	China
+Neighbor:	South Korea
+Neighbor:	Russia
+
+KR	KOR	410	South Korea	Seoul	98480	51635256
+Language:	1	Korean
+Language:	2	English
+Neighbor:	North Korea
+
+XK	XKX	0	Kosovo	Pristina	10908	1845300
+Language:	1	Albanian
+Language:	2	Serbian
+Neighbor:	Albania
+Neighbor:	Montenegro
+Neighbor:	North Macedonia
+Neighbor:	Serbia
+
+KW	KWT	414	Kuwait	Kuwait City	17820	4137309
+Language:	1	Arabic
+Language:	2	English
+Neighbor:	Iraq
+Neighbor:	Saudi Arabia
+
+KY	CYM	136	Cayman Islands	George Town	262	64174
+Language:	1	English
+
+KZ	KAZ	398	Kazakhstan	Astana	2.7173e+006	18276499
+Language:	2	Russian
+Language:	1	Kazakh
+Neighbor:	China
+Neighbor:	Kyrgyzstan
+Neighbor:	Russia
+Neighbor:	Turkmenistan
+Neighbor:	Uzbekistan
+
+LA	LAO	418	Laos	Vientiane	236800	7061507
+Language:	1	Lao
+Language:	3	English
+Language:	2	French
+Neighbor:	China
+Neighbor:	Cambodia
+Neighbor:	Myanmar
+Neighbor:	Thailand
+Neighbor:	Vietnam
+
+LB	LBN	422	Lebanon	Beirut	10400	6848925
+Language:	2	French
+Language:	3	English
+Language:	1	Arabic
+Language:	4	Armenian
+Neighbor:	Israel
+Neighbor:	Syria
+
+LC	LCA	662	Saint Lucia	Castries	616	181889
+Language:	1	English
+
+LI	LIE	438	Liechtenstein	Vaduz	160	37910
+Language:	1	German
+Neighbor:	Austria
+Neighbor:	Switzerland
+
+LK	LKA	144	Sri Lanka	Colombo	65610	21670000
+Language:	3	English
+Language:	1	Sinhala
+Language:	2	Tamil
+
+LR	LBR	430	Liberia	Monrovia	111370	4818977
+Language:	1	English
+Neighbor:	Ivory Coast
+Neighbor:	Guinea
+Neighbor:	Sierra Leone
+
+LS	LSO	426	Lesotho	Maseru	30355	2108132
+Language:	1	English
+Language:	2	Southern Sotho
+Language:	4	Xhosa
+Language:	3	Zulu
+Neighbor:	South Africa
+
+LT	LTU	440	Lithuania	Vilnius	65200	2789533
+Language:	2	Russian
+Language:	3	Polish
+Language:	1	Lithuanian
+Neighbor:	Belarus
+Neighbor:	Latvia
+Neighbor:	Poland
+Neighbor:	Russia
+
+LU	LUX	442	Luxembourg	Luxembourg	2586	607728
+Language:	1	Luxembourgish
+Language:	2	German
+Language:	3	French
+Neighbor:	Belgium
+Neighbor:	Germany
+Neighbor:	France
+
+LV	LVA	428	Latvia	Riga	64589	1926542
+Language:	3	Lithuanian
+Language:	1	Latvian
+Language:	2	Russian
+Neighbor:	Belarus
+Neighbor:	Estonia
+Neighbor:	Lithuania
+Neighbor:	Russia
+
+LY	LBY	434	Libya	Tripoli	1.75954e+006	6678567
+Language:	2	Italian
+Language:	3	English
+Language:	1	Arabic
+Neighbor:	Algeria
+Neighbor:	Egypt
+Neighbor:	Niger
+Neighbor:	Sudan
+Neighbor:	Chad
+Neighbor:	Tunisia
+
+MA	MAR	504	Morocco	Rabat	446550	36029138
+Language:	1	Arabic
+Language:	2	Berber languages
+Language:	3	French
+Neighbor:	Algeria
+Neighbor:	Western Sahara
+Neighbor:	Spain
+
+MC	MCO	492	Monaco	Monaco	1.95	38682
+Language:	1	French
+Language:	2	English
+Language:	3	Italian
+Neighbor:	France
+
+MD	MDA	498	Moldova	Chisinau	33843	3545883
+Language:	3	Gagauz
+Language:	2	Russian
+Language:	1	Romanian
+Language:	4	Turkish
+Neighbor:	Romania
+Neighbor:	Ukraine
+
+ME	MNE	499	Montenegro	Podgorica	14026	622345
+Language:	6	Romany
+Language:	1	Serbian
+Language:	2	Hungarian
+Language:	3	Bosnian
+Language:	4	Albanian
+Language:	5	Croatian
+Neighbor:	Albania
+Neighbor:	Bosnia and Herzegovina
+Neighbor:	Croatia
+Neighbor:	Kosovo
+Neighbor:	Serbia
+
+MF	MAF	663	Saint Martin	Marigot	53	37264
+Language:	1	French
+Neighbor:	Sint Maarten
+
+MG	MDG	450	Madagascar	Antananarivo	587040	26262368
+Language:	1	French
+Language:	2	Malagasy
+
+MH	MHL	584	Marshall Islands	Majuro	181.3	58413
+Language:	1	Marshallese
+Language:	2	English
+
+MK	MKD	807	North Macedonia	Skopje	25333	2082958
+Language:	2	Albanian
+Language:	1	Macedonian
+Language:	5	Serbian
+Language:	4	Roma
+Language:	3	Turkish
+Neighbor:	Albania
+Neighbor:	Bulgaria
+Neighbor:	Greece
+Neighbor:	Kosovo
+Neighbor:	Serbia
+
+ML	MLI	466	Mali	Bamako	1.24e+006	19077690
+Language:	2	Bambara
+Language:	1	French
+Neighbor:	Burkina Faso
+Neighbor:	Ivory Coast
+Neighbor:	Algeria
+Neighbor:	Guinea
+Neighbor:	Mauritania
+Neighbor:	Niger
+Neighbor:	Senegal
+
+MM	MMR	104	Myanmar	Nay Pyi Taw	678500	53708395
+Language:	1	Burmese
+Neighbor:	Bangladesh
+Neighbor:	China
+Neighbor:	India
+Neighbor:	Laos
+Neighbor:	Thailand
+
+MN	MNG	496	Mongolia	Ulan Bator	1.565e+006	3170208
+Language:	2	Russian
+Language:	1	Mongolian
+Neighbor:	China
+Neighbor:	Russia
+
+MO	MAC	446	Macao	Macau	254	631636
+Language:	2	Portuguese
+Language:	1	Chinese
+
+MP	MNP	580	Northern Mariana Islands	Saipan	477	56882
+Language:	3	Chinese
+Language:	4	Chamorro
+Language:	1	Filipino
+Language:	5	English
+Language:	2	Tagalog
+
+MQ	MTQ	474	Martinique	Fort-de-France	1100	432900
+Language:	1	French
+
+MR	MRT	478	Mauritania	Nouakchott	1.0307e+006	4403319
+Language:	4	French
+Language:	1	Arabic
+Language:	2	Pulaar
+Language:	3	Soninke
+Language:	5	Hassaniyya
+Language:	6	Wolof
+Neighbor:	Algeria
+Neighbor:	Western Sahara
+Neighbor:	Mali
+Neighbor:	Senegal
+
+MS	MSR	500	Montserrat	Plymouth	102	9341
+Language:	1	English
+
+MT	MLT	470	Malta	Valletta	316	483530
+Language:	2	English
+Language:	1	Maltese
+
+MU	MUS	480	Mauritius	Port Louis	2040	1265303
+Language:	1	English
+Language:	3	French
+Language:	2	Bhojpuri
+
+MV	MDV	462	Maldives	Male	300	515696
+Language:	1	Dhivehi
+Language:	2	English
+
+MW	MWI	454	Malawi	Lilongwe	118480	17563749
+Language:	4	Malawi Sena
+Language:	1	Nyanja
+Language:	3	Tumbuka
+Language:	2	Yao
+Neighbor:	Mozambique
+Neighbor:	Tanzania
+Neighbor:	Zambia
+
+MX	MEX	484	Mexico	Mexico City	1.97255e+006	126190788
+Language:	1	Spanish
+Neighbor:	Belize
+Neighbor:	Guatemala
+Neighbor:	United States
+
+MY	MYS	458	Malaysia	Kuala Lumpur	329750	31528585
+Language:	7	Panjabi
+Language:	6	Malayalam
+Language:	1	Malay (macrolanguage)
+Language:	2	English
+Language:	3	Chinese
+Language:	8	Thai
+Language:	4	Tamil
+Language:	5	Telugu
+Neighbor:	Brunei
+Neighbor:	Indonesia
+Neighbor:	Thailand
+
+MZ	MOZ	508	Mozambique	Maputo	801590	29495962
+Language:	2	Makhuwa
+Language:	1	Portuguese
+Neighbor:	Malawi
+Neighbor:	Eswatini
+Neighbor:	Tanzania
+Neighbor:	South Africa
+Neighbor:	Zambia
+Neighbor:	Zimbabwe
+
+NA	NAM	516	Namibia	Windhoek	825418	2448255
+Language:	5	Khoekhoe
+Language:	4	Herero
+Language:	2	Afrikaans
+Language:	1	English
+Language:	3	German
+Neighbor:	Angola
+Neighbor:	Botswana
+Neighbor:	South Africa
+Neighbor:	Zambia
+
+NC	NCL	540	New Caledonia	Noumea	19060	284060
+Language:	1	French
+
+NE	NER	562	Niger	Niamey	1.267e+006	22442948
+Language:	1	French
+Language:	2	Hausa
+Language:	3	Kanuri
+Language:	4	Zarma
+Neighbor:	Burkina Faso
+Neighbor:	Benin
+Neighbor:	Algeria
+Neighbor:	Libya
+Neighbor:	Mali
+Neighbor:	Nigeria
+Neighbor:	Chad
+
+NF	NFK	574	Norfolk Island	Kingston	34.6	1828
+Language:	1	English
+
+NG	NGA	566	Nigeria	Abuja	923768	195874740
+Language:	1	English
+Language:	5	Fulah
+Language:	2	Hausa
+Language:	4	Igbo
+Language:	3	Yoruba
+Neighbor:	Benin
+Neighbor:	Cameroon
+Neighbor:	Niger
+Neighbor:	Chad
+
+NI	NIC	558	Nicaragua	Managua	129494	6465513
+Language:	1	Spanish
+Language:	2	English
+Neighbor:	Costa Rica
+Neighbor:	Honduras
+
+NL	NLD	528	The Netherlands	Amsterdam	41526	17231017
+Language:	1	Dutch
+Language:	2	Western Frisian
+Neighbor:	Belgium
+Neighbor:	Germany
+
+NO	NOR	578	Norway	Oslo	324220	5314336
+Language:	5	Finnish
+Language:	1	Norwegian
+Language:	2	Norwegian Bokm├Ñl
+Language:	3	Norwegian Nynorsk
+Language:	4	Northern Sami
+Neighbor:	Finland
+Neighbor:	Russia
+Neighbor:	Sweden
+
+NP	NPL	524	Nepal	Kathmandu	140800	28087871
+Language:	1	Nepali (macrolanguage)
+Language:	2	English
+Neighbor:	China
+Neighbor:	India
+
+NR	NRU	520	Nauru	Yaren	21	12704
+Language:	2	English
+Language:	1	Nauru
+
+NU	NIU	570	Niue	Alofi	260	2166
+Language:	1	Niuean
+Language:	2	English
+
+NZ	NZL	554	New Zealand	Wellington	268680	4885500
+Language:	1	English
+Language:	2	Maori
+
+OM	OMN	512	Oman	Muscat	212460	4829483
+Language:	2	English
+Language:	1	Arabic
+Language:	3	Baluchi
+Language:	4	Urdu
+Neighbor:	United Arab Emirates
+Neighbor:	Saudi Arabia
+Neighbor:	Yemen
+
+PA	PAN	591	Panama	Panama	78200	4176873
+Language:	2	English
+Language:	1	Spanish
+Neighbor:	Colombia
+Neighbor:	Costa Rica
+
+PE	PER	604	Peru	Lima	1.28522e+006	31989256
+Language:	1	Spanish
+Language:	2	Quechua
+Language:	3	Aymara
+Neighbor:	Bolivia
+Neighbor:	Brazil
+Neighbor:	Chile
+Neighbor:	Colombia
+Neighbor:	Ecuador
+
+PF	PYF	258	French Polynesia	Papeete	4167	277679
+Language:	1	French
+Language:	2	Tahitian
+
+PG	PNG	598	Papua New Guinea	Port Moresby	462840	8606316
+Language:	4	Tok Pisin
+Language:	1	English
+Language:	3	Motu
+Language:	2	Hiri Motu
+Neighbor:	Indonesia
+
+PH	PHL	608	Philippines	Manila	300000	106651922
+Language:	6	Hiligaynon
+Language:	5	Iloko
+Language:	23	Inabaknon
+Language:	20	Ibanag
+Language:	18	Masbatenyo
+Language:	12	Maranao
+Language:	16	Kinaray-A
+Language:	14	Maguindanaon
+Language:	8	Pampanga
+Language:	11	Pangasinan
+Language:	2	English
+Language:	3	Filipino
+Language:	9	Bikol
+Language:	19	Aklanon
+Language:	4	Cebuano
+Language:	10	Central Bikol
+Language:	15	Chavacano
+Language:	22	Cotabato Manobo
+Language:	13	Tausug
+Language:	1	Tagalog
+Language:	17	Surigaonon
+Language:	7	Waray (Philippines)
+Language:	21	Yakan
+
+PK	PAK	586	Pakistan	Islamabad	803940	212215030
+Language:	1	Urdu
+Language:	6	Brahui
+Language:	2	English
+Language:	3	Panjabi
+Language:	5	Pushto
+Language:	4	Sindhi
+Neighbor:	Afghanistan
+Neighbor:	China
+Neighbor:	India
+Neighbor:	Iran
+
+PL	POL	616	Poland	Warsaw	312685	37978548
+Language:	1	Polish
+Neighbor:	Belarus
+Neighbor:	Czechia
+Neighbor:	Germany
+Neighbor:	Lithuania
+Neighbor:	Russia
+Neighbor:	Slovakia
+Neighbor:	Ukraine
+
+PM	SPM	666	Saint Pierre and Miquelon	Saint-Pierre	242	7012
+Language:	1	French
+
+PN	PCN	612	Pitcairn	Adamstown	47	46
+Language:	1	English
+
+PR	PRI	630	Puerto Rico	San Juan	9104	3195153
+Language:	1	English
+Language:	2	Spanish
+
+PS	PSE	275	Palestinian Territory	5970	4569087
+Language:	1	Arabic
+Neighbor:	Egypt
+Neighbor:	Israel
+Neighbor:	Jordan
+
+PT	PRT	620	Portugal	Lisbon	92391	10281762
+Language:	1	Portuguese
+Language:	2	Mirandese
+Neighbor:	Spain
+
+PW	PLW	585	Palau	Ngerulmud	458	17907
+Language:	5	Japanese
+Language:	1	Palauan
+Language:	2	Sonsorol
+Language:	7	Chinese
+Language:	3	English
+Language:	6	Filipino
+Language:	4	Tobian
+
+PY	PRY	600	Paraguay	Asuncion	406750	6956071
+Language:	1	Spanish
+Language:	2	Guarani
+Neighbor:	Argentina
+Neighbor:	Bolivia
+Neighbor:	Brazil
+
+QA	QAT	634	Qatar	Doha	11437	2781677
+Language:	2	Spanish
+Language:	1	Arabic
+Neighbor:	Saudi Arabia
+
+RE	REU	638	Reunion	Saint-Denis	2517	776948
+Language:	1	French
+
+RO	ROU	642	Romania	Bucharest	237500	19473936
+Language:	1	Romanian
+Language:	3	Romany
+Language:	2	Hungarian
+Neighbor:	Bulgaria
+Neighbor:	Hungary
+Neighbor:	Moldova
+Neighbor:	Serbia
+Neighbor:	Ukraine
+
+RS	SRB	688	Serbia	Belgrade	88361	6982084
+Language:	2	Hungarian
+Language:	4	Romany
+Language:	1	Serbian
+Language:	3	Bosnian
+Neighbor:	Albania
+Neighbor:	Bosnia and Herzegovina
+Neighbor:	Bulgaria
+Neighbor:	Croatia
+Neighbor:	Hungary
+Neighbor:	Kosovo
+Neighbor:	Montenegro
+Neighbor:	North Macedonia
+Neighbor:	Romania
+
+RU	RUS	643	Russia	Moscow	1.71e+007	144478050
+Language:	13	Buriat
+Language:	17	Bashkir
+Language:	21	Avaric
+Language:	5	Adyghe
+Language:	11	Altaic languages
+Language:	4	Caucasian languages
+Language:	9	Chuvash
+Language:	7	Chechen
+Language:	14	Erzya
+Language:	1	Russian
+Language:	23	Nogai
+Language:	19	Kabardian
+Language:	3	Kalmyk
+Language:	20	Karachay-Balkar
+Language:	15	Moksha
+Language:	16	Mari (Russia)
+Language:	12	Mansi
+Language:	18	Ingush
+Language:	6	Komi
+Language:	2	Tatar
+Language:	10	Udmurt
+Language:	8	Tuvinian
+Language:	22	Yakut
+Neighbor:	Azerbaijan
+Neighbor:	Belarus
+Neighbor:	China
+Neighbor:	Estonia
+Neighbor:	Finland
+Neighbor:	Georgia
+Neighbor:	North Korea
+Neighbor:	Kazakhstan
+Neighbor:	Lithuania
+Neighbor:	Latvia
+Neighbor:	Mongolia
+Neighbor:	Norway
+Neighbor:	Poland
+Neighbor:	Ukraine
+
+RW	RWA	646	Rwanda	Kigali	26338	12301939
+Language:	1	Kinyarwanda
+Language:	4	Swahili (macrolanguage)
+Language:	2	English
+Language:	3	French
+Neighbor:	Burundi
+Neighbor:	Democratic Republic of the Congo
+Neighbor:	Tanzania
+Neighbor:	Uganda
+
+SA	SAU	682	Saudi Arabia	Riyadh	1.96058e+006	33699947
+Language:	1	Arabic
+Neighbor:	United Arab Emirates
+Neighbor:	Iraq
+Neighbor:	Jordan
+Neighbor:	Kuwait
+Neighbor:	Oman
+Neighbor:	Qatar
+Neighbor:	Yemen
+
+SB	SLB	90	Solomon Islands	Honiara	28450	652858
+Language:	1	English
+Language:	2	Tok Pisin
+
+SC	SYC	690	Seychelles	Victoria	455	96762
+Language:	1	English
+Language:	2	French
+
+SD	SDN	729	Sudan	Khartoum	1.86148e+006	41801533
+Language:	2	English
+Language:	1	Arabic
+Language:	3	Nobiin
+Neighbor:	Central African Republic
+Neighbor:	Egypt
+Neighbor:	Eritrea
+Neighbor:	Ethiopia
+Neighbor:	Libya
+Neighbor:	South Sudan
+Neighbor:	Chad
+
+SS	SSD	728	South Sudan	Juba	644329	8260490
+Language:	1	English
+Neighbor:	Democratic Republic of the Congo
+Neighbor:	Central African Republic
+Neighbor:	Ethiopia
+Neighbor:	Kenya
+Neighbor:	Sudan
+Neighbor:	Uganda
+
+SE	SWE	752	Sweden	Stockholm	449964	10183175
+Language:	4	Finnish
+Language:	2	Northern Sami
+Language:	3	Southern Sami
+Language:	1	Swedish
+Neighbor:	Finland
+Neighbor:	Norway
+
+SG	SGP	702	Singapore	Singapore	692.7	5638676
+Language:	4	Tamil
+Language:	1	Mandarin Chinese
+Language:	3	Malay (macrolanguage)
+Language:	2	English
+Language:	5	Chinese
+
+SH	SHN	654	Saint Helena	Jamestown	410	7460
+Language:	1	English
+
+SI	SVN	705	Slovenia	Ljubljana	20273	2067372
+Language:	1	Slovenian
+Language:	2	Serbo-Croatian
+Neighbor:	Austria
+Neighbor:	Croatia
+Neighbor:	Hungary
+Neighbor:	Italy
+
+SJ	SJM	744	Svalbard and Jan Mayen	Longyearbyen	62049	2550
+Language:	2	Russian
+Language:	1	Norwegian
+
+SK	SVK	703	Slovakia	Bratislava	48845	5447011
+Language:	1	Slovak
+Language:	2	Hungarian
+Neighbor:	Austria
+Neighbor:	Czechia
+Neighbor:	Hungary
+Neighbor:	Poland
+Neighbor:	Ukraine
+
+SL	SLE	694	Sierra Leone	Freetown	71740	7650154
+Language:	2	Mende (Sierra Leone)
+Language:	1	English
+Language:	3	Timne
+Neighbor:	Guinea
+Neighbor:	Liberia
+
+SM	SMR	674	San Marino	San Marino	61.2	33785
+Language:	1	Italian
+Neighbor:	Italy
+
+SN	SEN	686	Senegal	Dakar	196190	15854360
+Language:	4	Mandinka
+Language:	3	Pulaar
+Language:	1	French
+Language:	2	Wolof
+Neighbor:	Gambia
+Neighbor:	Guinea
+Neighbor:	Guinea-Bissau
+Neighbor:	Mali
+Neighbor:	Mauritania
+
+SO	SOM	706	Somalia	Mogadishu	637657	15008154
+Language:	4	English
+Language:	2	Arabic
+Language:	1	Somali
+Language:	3	Italian
+Neighbor:	Djibouti
+Neighbor:	Ethiopia
+Neighbor:	Kenya
+
+SR	SUR	740	Suriname	Paramaribo	163270	575991
+Language:	5	Javanese
+Language:	3	Sranan Tongo
+Language:	4	Caribbean Hindustani
+Language:	1	Dutch
+Language:	2	English
+Neighbor:	Brazil
+Neighbor:	French Guiana
+Neighbor:	Guyana
+
+ST	STP	678	Sao Tome and Principe	Sao Tome	1001	197700
+Language:	1	Portuguese
+
+SV	SLV	222	El Salvador	San Salvador	21040	6420744
+Language:	1	Spanish
+Neighbor:	Guatemala
+Neighbor:	Honduras
+
+SX	SXM	534	Sint Maarten	Philipsburg	21	40654
+Language:	1	Dutch
+Language:	2	English
+Neighbor:	Saint Martin
+
+SY	SYR	760	Syria	Damascus	185180	16906283
+Language:	6	English
+Language:	1	Arabic
+Language:	3	Armenian
+Language:	5	French
+Language:	4	Official Aramaic (700-300 BCE)
+Language:	2	Kurdish
+Neighbor:	Israel
+Neighbor:	Iraq
+Neighbor:	Jordan
+Neighbor:	Lebanon
+Neighbor:	Turkey
+
+SZ	SWZ	748	Eswatini	Mbabane	17363	1136191
+Language:	2	Swati
+Language:	1	English
+Neighbor:	Mozambique
+Neighbor:	South Africa
+
+TC	TCA	796	Turks and Caicos Islands	Cockburn Town	430	37665
+Language:	1	English
+
+TD	TCD	148	Chad	N'Djamena	1.284e+006	15477751
+Language:	2	Arabic
+Language:	1	French
+Language:	3	Sara
+Neighbor:	Central African Republic
+Neighbor:	Cameroon
+Neighbor:	Libya
+Neighbor:	Niger
+Neighbor:	Nigeria
+Neighbor:	Sudan
+
+TF	ATF	260	French Southern Territories	Port-aux-Francais	7829	140
+Language:	1	French
+
+TG	TGO	768	Togo	Lome	56785	7889094
+Language:	1	French
+Language:	2	Ewe
+Language:	5	Dagbani
+Language:	3	Mina (Cameroon)
+Language:	4	Kabiy├¿
+Language:	6	Hausa
+Neighbor:	Burkina Faso
+Neighbor:	Benin
+Neighbor:	Ghana
+
+TH	THA	764	Thailand	Bangkok	514000	69428524
+Language:	2	English
+Language:	1	Thai
+Neighbor:	Cambodia
+Neighbor:	Laos
+Neighbor:	Myanmar
+Neighbor:	Malaysia
+
+TJ	TJK	762	Tajikistan	Dushanbe	143100	9100837
+Language:	1	Tajik
+Language:	2	Russian
+Neighbor:	Afghanistan
+Neighbor:	China
+Neighbor:	Kyrgyzstan
+Neighbor:	Uzbekistan
+
+TK	TKL	772	Tokelau	10	1466
+Language:	2	English
+Language:	1	Tokelau
+
+TL	TLS	626	Timor Leste	Dili	15007	1267972
+Language:	1	Tetum
+Language:	4	English
+Language:	2	Portuguese
+Language:	3	Indonesian
+Neighbor:	Indonesia
+
+TM	TKM	795	Turkmenistan	Ashgabat	488100	5850908
+Language:	2	Russian
+Language:	3	Uzbek
+Language:	1	Turkmen
+Neighbor:	Afghanistan
+Neighbor:	Iran
+Neighbor:	Kazakhstan
+Neighbor:	Uzbekistan
+
+TN	TUN	788	Tunisia	Tunis	163610	11565204
+Language:	1	Arabic
+Language:	2	French
+Neighbor:	Algeria
+Neighbor:	Libya
+
+TO	TON	776	Tonga	Nuku'alofa	748	103197
+Language:	2	English
+Language:	1	Tonga (Tonga Islands)
+
+TR	TUR	792	Turkey	Ankara	780580	82319724
+Language:	1	Turkish
+Language:	3	Dimli (individual language)
+Language:	5	Avaric
+Language:	4	Azerbaijani
+Language:	2	Kurdish
+Neighbor:	Armenia
+Neighbor:	Azerbaijan
+Neighbor:	Bulgaria
+Neighbor:	Georgia
+Neighbor:	Greece
+Neighbor:	Iraq
+Neighbor:	Iran
+Neighbor:	Syria
+
+TT	TTO	780	Trinidad and Tobago	Port of Spain	5128	1389858
+Language:	4	Spanish
+Language:	1	English
+Language:	2	Caribbean Hindustani
+Language:	5	Chinese
+Language:	3	French
+
+TV	TUV	798	Tuvalu	Funafuti	26	11508
+Language:	2	English
+Language:	3	Samoan
+Language:	4	Gilbertese
+Language:	1	Tuvalu
+
+TW	TWN	158	Taiwan	Taipei	35980	23451837
+Language:	3	Hakka Chinese
+Language:	2	Min Nan Chinese
+Language:	1	Chinese
+
+TZ	TZA	834	Tanzania	Dodoma	945087	56318348
+Language:	2	English
+Language:	3	Arabic
+Language:	1	Swahili (macrolanguage)
+Neighbor:	Burundi
+Neighbor:	Democratic Republic of the Congo
+Neighbor:	Kenya
+Neighbor:	Malawi
+Neighbor:	Mozambique
+Neighbor:	Rwanda
+Neighbor:	Uganda
+Neighbor:	Zambia
+
+UA	UKR	804	Ukraine	Kyiv	603700	44622516
+Language:	2	Russian
+Language:	3	Romany
+Language:	4	Polish
+Language:	5	Hungarian
+Language:	1	Ukrainian
+Neighbor:	Belarus
+Neighbor:	Hungary
+Neighbor:	Moldova
+Neighbor:	Poland
+Neighbor:	Romania
+Neighbor:	Russia
+Neighbor:	Slovakia
+
+UG	UGA	800	Uganda	Kampala	236040	42723139
+Language:	2	Ganda
+Language:	3	Swahili (macrolanguage)
+Language:	4	Arabic
+Language:	1	English
+Neighbor:	Democratic Republic of the Congo
+Neighbor:	Kenya
+Neighbor:	Rwanda
+Neighbor:	South Sudan
+Neighbor:	Tanzania
+
+UM	UMI	581	United States Minor Outlying Islands	0	0
+Language:	1	English
+
+US	USA	840	United States	Washington	9.62909e+006	327167434
+Language:	1	English
+Language:	4	French
+Language:	2	Spanish
+Language:	3	Hawaiian
+Neighbor:	Canada
+Neighbor:	Cuba
+Neighbor:	Mexico
+
+UY	URY	858	Uruguay	Montevideo	176220	3449299
+Language:	1	Spanish
+Neighbor:	Argentina
+Neighbor:	Brazil
+
+UZ	UZB	860	Uzbekistan	Tashkent	447400	32955400
+Language:	2	Russian
+Language:	1	Uzbek
+Language:	3	Tajik
+Neighbor:	Afghanistan
+Neighbor:	Kyrgyzstan
+Neighbor:	Kazakhstan
+Neighbor:	Tajikistan
+Neighbor:	Turkmenistan
+
+VA	VAT	336	Vatican	Vatican City	0.44	921
+Language:	2	Italian
+Language:	1	Latin
+Language:	3	French
+Neighbor:	Italy
+
+VC	VCT	670	Saint Vincent and the Grenadines	Kingstown	389	110211
+Language:	2	French
+Language:	1	English
+
+VE	VEN	862	Venezuela	Caracas	912050	28870195
+Language:	1	Spanish
+Neighbor:	Brazil
+Neighbor:	Colombia
+Neighbor:	Guyana
+
+VG	VGB	92	British Virgin Islands	Road Town	153	29802
+Language:	1	English
+
+VI	VIR	850	U.S. Virgin Islands	Charlotte Amalie	352	106977
+Language:	1	English
+
+VN	VNM	704	Vietnam	Hanoi	329560	95540395
+Language:	2	English
+Language:	4	Chinese
+Language:	3	French
+Language:	5	Khmer
+Language:	1	Vietnamese
+Neighbor:	China
+Neighbor:
