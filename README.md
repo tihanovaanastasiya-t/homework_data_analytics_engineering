@@ -1,11 +1,11 @@
 # homework_data_analytics_engineering
 
 
-The homework assignments were completed as part of the successfully completed course 
-"Data Analytics & Engineering: Foundations with SQL and Python " by Coherent Solutions. 
-They demonstrate practical skills in SQL and Python, acquired throughout the training.
+# The homework assignments were completed as part of the successfully completed course 
+# "Data Analytics & Engineering: Foundations with SQL and Python " by Coherent Solutions. 
+# They demonstrate practical skills in SQL and Python, acquired throughout the training.
 
-The course covered the following topics:
+# The course covered the following topics:
 
 # *1 Introduction (1 session)*
 
